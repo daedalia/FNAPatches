@@ -3,7 +3,6 @@
 out/**
 deps/**
 **/monomod/**
-**/*.dll
 **/*.exe
 !deps/*/.*here
 !deps/FNA
